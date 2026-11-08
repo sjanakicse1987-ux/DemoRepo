@@ -1,0 +1,17 @@
+Visit the below website to create 30days free enterprise org
+
+https://www.salesforce.com/eu/sales/free-trial/ee/
+
+
+
+Sandbox Org( created on 12/5/2026 )
+
+User Name :sjanakicse1987_hptdjgckjrwu0g@gmail.com. 
+Password: Janaki@1987
+
+UAT Sandbox for user acceptance test
+
+
+
+
+Create two screen flows which help users to create a department and the employees. Distribute the screen flow in the home page.
